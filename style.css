@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(78, 214, 130);
+    text-align:center ;
+}
+p{
+    color: rgb(230, 133, 133);
+}
+h1{
+font-style: italic;
+font-size: 40%;
+}
+.sofia{
+    color: crimson;
+    font-size: medium;
+}
+.img1 {
+    width: 55% ;
+    text-align: center;
+}
